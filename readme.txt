@@ -7,4 +7,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracke changes.
 Creating a new branch is quick.
-version 4.0
+version 5.0
